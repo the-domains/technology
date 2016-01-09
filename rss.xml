@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Technology]]></title>
         <description><![CDATA[Technology]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/technology/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 18:41:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jan 2016 18:50:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/technology/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Diving into high-quality technical papers, looking forward for new architectural insights</p>]]></description>
+            <link>https://thegrid.ai/technology/0c8c3099-bc7d-4108-8bc9-d1fbbe582d2c/index.html</link>
+            <guid isPermaLink="false">0c8c3099-bc7d-4108-8bc9-d1fbbe582d2c</guid>
+            <pubDate>Sat, 09 Jan 2016 18:50:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This will become a beautiful blog about the wild possibilities and ethical implications of technologies</p>]]></description>
-            <link>undefinedcb47eaf2-eccf-4a53-8b93-ece446bce8c4/index.html</link>
+            <link>https://thegrid.ai/technology/cb47eaf2-eccf-4a53-8b93-ece446bce8c4/index.html</link>
             <guid isPermaLink="false">cb47eaf2-eccf-4a53-8b93-ece446bce8c4</guid>
             <pubDate>Sat, 09 Jan 2016 18:41:37 GMT</pubDate>
         </item>
